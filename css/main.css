@@ -1,0 +1,15 @@
+h1 {
+  font-family: sans-serif;
+}
+
+.photo-gallery a {
+  text-decoration: none;
+}
+
+.photo-gallery img {
+  padding: 4px;
+}
+
+.photo-gallery img:hover {
+  box-shadow: 3px 3px 3px #888;
+}
